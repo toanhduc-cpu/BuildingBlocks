@@ -1,0 +1,42 @@
+================================================================================
+WORKFLOW: Extract text from a PDF file
+================================================================================
+
+📋 BASIC INFORMATION
+------------------------------
+ID: 585
+Name: Extract text from a PDF file
+Total Views: 82,691
+Created At: 2020-08-04T02:54:52.859Z
+Purchase URL: None
+
+👤 AUTHOR INFORMATION
+------------------------------
+Name: amudhan
+Username: sm-amudhan
+Verified: ✅ Yes
+
+📝 DESCRIPTION
+------------------------------
+Companion workflow for Read PDF node docs
+
+📊 RAW DATA (JSON)
+------------------------------
+{
+  "id": 585,
+  "name": "Extract text from a PDF file",
+  "totalViews": 82691,
+  "purchaseUrl": null,
+  "user": {
+    "id": 5269,
+    "name": "amudhan",
+    "username": "sm-amudhan",
+    "bio": null,
+    "verified": true,
+    "links": "[]",
+    "avatar": "https://gravatar.com/avatar/7ee0febc0cbec2f1f6b24ddec3c4322e27c82c91dc729cfecf6ce12bfddd058d?r=pg&d=retro&size=200"
+  },
+  "description": "Companion workflow for Read PDF node docs\n\n",
+  "createdAt": "2020-08-04T02:54:52.859Z",
+  "nodes": []
+}

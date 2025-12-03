@@ -1,0 +1,54 @@
+================================================================================
+WORKFLOW: Manage Adobe Acrobat e-signatures with webhooks
+================================================================================
+
+📋 BASIC INFORMATION
+------------------------------
+ID: 1588
+Name: Manage Adobe Acrobat e-signatures with webhooks
+Total Views: 779
+Created At: 2022-04-11T17:50:32.647Z
+Purchase URL: None
+
+👤 AUTHOR INFORMATION
+------------------------------
+Name: Aaron Smusz
+Username: atsmusz
+Verified: ❌ No
+
+📝 DESCRIPTION
+------------------------------
+This workflow automatically manages Acrobat Sign signatures, respond with "intent" to Acrobat-Sign webhooks.
+
+Prerequisites
+
+Adobe Acrobat Sign and Sign webhook
+Basic knowledge of JavaScript
+
+Nodes
+
+Webhook nodes trigger the workflow on new sign intents on a document
+Respond to Webhook node sets the response headers.
+Function node processes data returned by the previous node.
+Set node sets the required values.
+
+📊 RAW DATA (JSON)
+------------------------------
+{
+  "id": 1588,
+  "name": "Manage Adobe Acrobat e-signatures with webhooks",
+  "totalViews": 779,
+  "purchaseUrl": null,
+  "user": {
+    "id": 16772,
+    "name": "Aaron Smusz",
+    "username": "atsmusz",
+    "bio": null,
+    "verified": false,
+    "links": "[]",
+    "avatar": "https://gravatar.com/avatar/479e0dd550ab3e6da7052f684b6d7e1b4fdbb8c8758f4ec521c17bf75c1c3c6d?r=pg&d=retro&size=200"
+  },
+  "description": "This workflow automatically manages Acrobat Sign signatures, respond with \"intent\" to Acrobat-Sign webhooks.\n\nPrerequisites\n\nAdobe Acrobat Sign and Sign webhook\nBasic knowledge of JavaScript\n\nNodes\n\nWebhook nodes trigger the workflow on new sign intents on a document\nRespond to Webhook node sets the response headers.\nFunction node processes data returned by the previous node.\nSet node sets the required values.",
+  "createdAt": "2022-04-11T17:50:32.647Z",
+  "nodes": []
+}
