@@ -1,0 +1,43 @@
+================================================================================
+WORKFLOW: Create an array of objects
+================================================================================
+
+📋 BASIC INFORMATION
+------------------------------
+ID: 767
+Name: Create an array of objects
+Total Views: 2,312
+Created At: 2020-11-05T13:29:45.984Z
+Purchase URL: None
+
+👤 AUTHOR INFORMATION
+------------------------------
+Name: Harshil Agrawal
+Username: harshil1712
+Verified: ✅ Yes
+Links: harshil.dev
+
+📝 DESCRIPTION
+------------------------------
+You can use the Function node to create an array of objects.
+
+📊 RAW DATA (JSON)
+------------------------------
+{
+  "id": 767,
+  "name": "Create an array of objects",
+  "totalViews": 2312,
+  "purchaseUrl": null,
+  "user": {
+    "id": 5176,
+    "name": "Harshil Agrawal",
+    "username": "harshil1712",
+    "bio": "",
+    "verified": true,
+    "links": "[\"harshil.dev\"]",
+    "avatar": "https://gravatar.com/avatar/1060ec3113fdd8cafb191f3728c0ac39436b3cd46be4dd518923e242fb708ef1?r=pg&d=retro&size=200"
+  },
+  "description": "You can use the Function node to create an array of objects. ",
+  "createdAt": "2020-11-05T13:29:45.984Z",
+  "nodes": []
+}

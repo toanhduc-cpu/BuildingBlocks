@@ -1,0 +1,42 @@
+================================================================================
+WORKFLOW: Convert XML to JSON
+================================================================================
+
+📋 BASIC INFORMATION
+------------------------------
+ID: 160
+Name: Convert XML to JSON
+Total Views: 5,468
+Created At: 2019-11-04T10:03:13.500Z
+Purchase URL: None
+
+👤 AUTHOR INFORMATION
+------------------------------
+Name: mail
+Username: vuchl
+Verified: ❌ No
+
+📝 DESCRIPTION
+------------------------------
+Transforms XML data to JSON honoring XML attributes by putting them in a separate key:
+
+📊 RAW DATA (JSON)
+------------------------------
+{
+  "id": 160,
+  "name": "Convert XML to JSON",
+  "totalViews": 5468,
+  "purchaseUrl": null,
+  "user": {
+    "id": 1800,
+    "name": "mail",
+    "username": "vuchl",
+    "bio": null,
+    "verified": false,
+    "links": "[]",
+    "avatar": "https://gravatar.com/avatar/62425b57f33a01b5f4b381dc11c3f66307c13c71c7e0b49fced50bd115a861bf?r=pg&d=retro&size=200"
+  },
+  "description": "Transforms XML data to JSON honoring XML attributes by putting them in a separate key:\n",
+  "createdAt": "2019-11-04T10:03:13.500Z",
+  "nodes": []
+}

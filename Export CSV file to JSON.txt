@@ -1,0 +1,42 @@
+================================================================================
+WORKFLOW: Export CSV file to JSON
+================================================================================
+
+📋 BASIC INFORMATION
+------------------------------
+ID: 1731
+Name: Export CSV file to JSON
+Total Views: 6,381
+Created At: 2022-06-29T04:44:34.245Z
+Purchase URL: None
+
+👤 AUTHOR INFORMATION
+------------------------------
+Name: Lorena
+Username: lorenanda
+Verified: ✅ Yes
+
+📝 DESCRIPTION
+------------------------------
+This workflow exports a local CSV file to a JSON file.
+
+📊 RAW DATA (JSON)
+------------------------------
+{
+  "id": 1731,
+  "name": "Export CSV file to JSON",
+  "totalViews": 6381,
+  "purchaseUrl": null,
+  "user": {
+    "id": 12733,
+    "name": "Lorena",
+    "username": "lorenanda",
+    "bio": null,
+    "verified": true,
+    "links": "[]",
+    "avatar": "https://gravatar.com/avatar/df6358bcce2351cf878beab8f89b9f000f50588aaa728f7ea57127c1b85e7b06?r=pg&d=retro&size=200"
+  },
+  "description": "This workflow exports a local CSV file to a JSON file.",
+  "createdAt": "2022-06-29T04:44:34.245Z",
+  "nodes": []
+}
