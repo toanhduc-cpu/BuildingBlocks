@@ -1,0 +1,42 @@
+================================================================================
+WORKFLOW: Standup bot (3/4): Override Config
+================================================================================
+
+📋 BASIC INFORMATION
+------------------------------
+ID: 1474
+Name: Standup bot (3/4): Override Config
+Total Views: 870
+Created At: 2022-02-18T11:47:51.610Z
+Purchase URL: None
+
+👤 AUTHOR INFORMATION
+------------------------------
+Name: Jonathan
+Username: jon-n8n
+Verified: ✅ Yes
+
+📝 DESCRIPTION
+------------------------------
+This is the third bot for the Mattermost Standup Bot. This workflow will override or update the configuration file as needed. This workflow is called by the 'Standup Bot - Worker' workflow.
+
+📊 RAW DATA (JSON)
+------------------------------
+{
+  "id": 1474,
+  "name": "Standup bot (3/4): Override Config",
+  "totalViews": 870,
+  "purchaseUrl": null,
+  "user": {
+    "id": 25789,
+    "name": "Jonathan",
+    "username": "jon-n8n",
+    "bio": null,
+    "verified": true,
+    "links": "[]",
+    "avatar": "https://gravatar.com/avatar/5240094f838126182ceefb50ca4a3cf75cc7dc0808efd4b9920d792e41bfc45e?r=pg&d=retro&size=200"
+  },
+  "description": "This is the third bot for the Mattermost Standup Bot. This workflow will override or update the configuration file as needed. This workflow is called by the 'Standup Bot - Worker' workflow.",
+  "createdAt": "2022-02-18T11:47:51.610Z",
+  "nodes": []
+}

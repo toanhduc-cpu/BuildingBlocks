@@ -1,0 +1,42 @@
+================================================================================
+WORKFLOW: Write JSON to Disk (Binary)
+================================================================================
+
+📋 BASIC INFORMATION
+------------------------------
+ID: 101
+Name: Write JSON to Disk (Binary)
+Total Views: 4,235
+Created At: 2019-10-11T16:23:25.650Z
+Purchase URL: None
+
+👤 AUTHOR INFORMATION
+------------------------------
+Name: mike
+Username: mikey
+Verified: ❌ No
+
+📝 DESCRIPTION
+------------------------------
+The “Write Binary File” expects binary data. The JSON data is, however, JSON ;) There should really be a node that allows moving data around between both of them. For now, it can be done with a Function-Node. At least till a proper one is in place. The first node is example data, wich you can customize or replace. The second node named “Make Binary” is the important one with the custom code which makes the data binary and writes it to the correct location.
+
+📊 RAW DATA (JSON)
+------------------------------
+{
+  "id": 101,
+  "name": "Write JSON to Disk (Binary)",
+  "totalViews": 4235,
+  "purchaseUrl": null,
+  "user": {
+    "id": 1053,
+    "name": "mike",
+    "username": "mikey",
+    "bio": null,
+    "verified": false,
+    "links": "[]",
+    "avatar": "https://gravatar.com/avatar/948517b1c04dd78b3b68e43f78cc88ee4a28a9ac84a897516faa2d8a7edd4bbc?r=pg&d=retro&size=200"
+  },
+  "description": "The “Write Binary File” expects binary data. The JSON data is, however, JSON ;) There should really be a node that allows moving data around between both of them. For now, it can be done with a Function-Node. At least till a proper one is in place. The first node is example data, wich you can customize or replace. The second node named “Make Binary” is the important one with the custom code which makes the data binary and writes it to the correct location.",
+  "createdAt": "2019-10-11T16:23:25.650Z",
+  "nodes": []
+}

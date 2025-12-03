@@ -1,0 +1,45 @@
+================================================================================
+WORKFLOW: Tip #1: Testing n8n sub-workflow
+================================================================================
+
+📋 BASIC INFORMATION
+------------------------------
+ID: 5032
+Name: Tip #1: Testing n8n sub-workflow
+Total Views: 34
+Created At: 2025-06-18T20:11:59.029Z
+Purchase URL: None
+
+👤 AUTHOR INFORMATION
+------------------------------
+Name: Viktor Klepikovskyi
+Username: vklepikovskyi
+Verified: ❌ No
+Links: https://n8n-tips.blogspot.com/
+
+📝 DESCRIPTION
+------------------------------
+Tip #1: Testing n8n sub-workflow
+This is the template with example of how you can organize your sub-workflow to be able to test it.
+More details in my N8n Tips blog
+
+📊 RAW DATA (JSON)
+------------------------------
+{
+  "id": 5032,
+  "name": "Tip #1: Testing n8n sub-workflow",
+  "totalViews": 34,
+  "purchaseUrl": null,
+  "user": {
+    "id": 95551,
+    "name": "Viktor Klepikovskyi",
+    "username": "vklepikovskyi",
+    "bio": "",
+    "verified": false,
+    "links": "[\"https://n8n-tips.blogspot.com/\"]",
+    "avatar": "https://gravatar.com/avatar/105d6f0adcd17f857178c89f61db8ab3c7e5db936142b460513422f7cce6031b?r=pg&d=retro&size=200"
+  },
+  "description": "Tip #1: Testing n8n sub-workflow\nThis is the template with example of how you can organize your sub-workflow to be able to test it.\nMore details in my N8n Tips blog",
+  "createdAt": "2025-06-18T20:11:59.029Z",
+  "nodes": []
+}
